@@ -1,0 +1,567 @@
+{
+    "version": "0.4",
+    "title": "Works",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "58f4fe86",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2021\/02\/kelly-sikkema-o2TRWThve_I-unsplash_2-scaled.jpg",
+                    "id": "2101"
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "background_image_mobile": {
+                    "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2021\/02\/kelly-sikkema-o2TRWThve_I-unsplash_2-scaled.jpg",
+                    "id": "2101"
+                },
+                "background_position_mobile": "top center",
+                "background_size_mobile": "initial",
+                "background_xpos_mobile": {
+                    "unit": "px",
+                    "size": "-122",
+                    "sizes": []
+                },
+                "background_bg_width_mobile": {
+                    "unit": "px",
+                    "size": "700",
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "257772d5",
+                    "settings": {
+                        "_column_size": "100",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "85",
+                            "left": "0",
+                            "isLinked": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "44996fa3",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": "140",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4127aafa",
+                            "settings": {
+                                "title": "Our works.",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "60",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": "200",
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "10",
+                                    "isLinked": ""
+                                },
+                                "align": "center",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "header_size": "h1",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "560319d",
+            "settings": {
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=accent"
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "4f2bd39c",
+                    "settings": {
+                        "_column_size": "100",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        },
+                        "__globals__": {
+                            "border_color": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "9a88cab",
+                            "settings": {
+                                "title": "Our Works.",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": "200",
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-5",
+                                    "left": "10",
+                                    "isLinked": ""
+                                },
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2fb5e935",
+                            "settings": {
+                                "title": "See all our works",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "typography_typography": "globals\/typography?id=accent"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": "400",
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": ""
+                                },
+                                "align": "center",
+                                "header_size": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "73790852",
+            "settings": {
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=accent"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "353dac52",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "347c1481",
+                            "settings": {
+                                "eael_fg_items_to_show": "10",
+                                "eael_fg_filter_duration": "500",
+                                "columns": "2",
+                                "eael_fg_grid_item_height": "400",
+                                "eael_fg_all_label_text": "All",
+                                "eael_fg_controls": [
+                                    {
+                                        "eael_fg_control": "Photography",
+                                        "_id": "578a256"
+                                    },
+                                    {
+                                        "eael_fg_control": "Architecture",
+                                        "_id": "57170e5"
+                                    },
+                                    {
+                                        "eael_fg_control": "Design",
+                                        "_id": "85d2e5d"
+                                    }
+                                ],
+                                "eael_fg_gallery_items": [
+                                    {
+                                        "eael_fg_gallery_item_name": "Product Photography",
+                                        "_id": "f8bbca7",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Photography",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2020\/11\/irene-kredenets-dwKiHoqqxk8-unsplash-2-scaled.jpg",
+                                            "id": "291"
+                                        },
+                                        "eael_fg_gallery_lightbox": "",
+                                        "eael_fg_gallery_link": ""
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "UI Design",
+                                        "_id": "aba02c0",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Design",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2020\/11\/daniel-korpai-aUmq85-2V7I-unsplash-scaled.jpg",
+                                            "id": "281"
+                                        },
+                                        "eael_fg_gallery_lightbox": "",
+                                        "eael_fg_gallery_link": ""
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Interior Design",
+                                        "_id": "5598120",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Architecture",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2020\/11\/claus-grunstaudl-I72dFJRFT3k-unsplash-scaled.jpg",
+                                            "id": "280"
+                                        },
+                                        "eael_fg_gallery_lightbox": "",
+                                        "eael_fg_gallery_link": ""
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Architecture",
+                                        "_id": "440c497",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Architecture",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2020\/11\/stefan-spassov-k87dHceae1w-unsplash-scaled.jpg",
+                                            "id": "279"
+                                        },
+                                        "eael_fg_gallery_lightbox": "",
+                                        "eael_fg_gallery_link": ""
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Color Palette",
+                                        "_id": "cd3c67b",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Design",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2020\/11\/balazs-ketyi-LPWl2pEVGKc-unsplash.jpg",
+                                            "id": "278"
+                                        },
+                                        "eael_fg_gallery_lightbox": "",
+                                        "eael_fg_gallery_link": ""
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Building Architecture",
+                                        "_id": "38c1836",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Architecture",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2020\/11\/mike-von-wlgRrLh0q38-unsplash-scaled.jpg",
+                                            "id": "277"
+                                        },
+                                        "eael_fg_gallery_lightbox": "",
+                                        "eael_fg_gallery_link": ""
+                                    },
+                                    {
+                                        "_id": "cf72039",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Architecture",
+                                        "eael_fg_gallery_item_name": "Building Architecture",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2020\/11\/victor-garcia-iFGckeYFgLw-unsplash-scaled.jpg",
+                                            "id": "276"
+                                        },
+                                        "eael_fg_gallery_lightbox": "",
+                                        "eael_fg_gallery_link": ""
+                                    },
+                                    {
+                                        "_id": "fb28af1",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Design",
+                                        "eael_fg_gallery_item_name": "UI Design",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2020\/11\/balazs-ketyi-jRUW43RuZ_A-unsplash.jpg",
+                                            "id": "178"
+                                        },
+                                        "eael_fg_gallery_lightbox": "",
+                                        "eael_fg_gallery_link": ""
+                                    },
+                                    {
+                                        "_id": "8ffbf55",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Photography",
+                                        "eael_fg_gallery_item_name": "Product Photography",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2020\/11\/lloyd-dirks-0vsk2_9dkqo-unsplash-2.jpg",
+                                            "id": "289"
+                                        },
+                                        "eael_fg_gallery_lightbox": "",
+                                        "eael_fg_gallery_link": ""
+                                    },
+                                    {
+                                        "_id": "c60ac76",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Photography",
+                                        "eael_fg_gallery_item_name": "Wedding Photography",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/creative1\/wp-content\/uploads\/sites\/43\/2020\/11\/jeremy-wong-weddings-464ps_nOflw-unsplash-scaled.jpg",
+                                            "id": "284"
+                                        },
+                                        "eael_fg_gallery_lightbox": "",
+                                        "eael_fg_gallery_link": ""
+                                    }
+                                ],
+                                "images_per_page": "6",
+                                "load_more_text": "Load More",
+                                "nomore_items_text": "No more items!",
+                                "eael_fg_video_item_icon_hover_scale": "1.1",
+                                "fg_sf_placeholder": "Search Gallery Item...",
+                                "eael_fg_grid_style": "masonry",
+                                "eael_fg_bg_color": "",
+                                "eael_fg_container_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "eael_fg_control_active_text_color": "#FFFFFF",
+                                "eael_fg_control_active_bg_color": "#C6C6C6",
+                                "eael_fg_item_border_color": "#C6C6C6",
+                                "eael_fg_item_hoverer_content_alignment": "center",
+                                "__globals__": {
+                                    "eael_fg_bg_color": "",
+                                    "eael_fg_control_normal_bg_color": "",
+                                    "eael_fg_control_active_bg_color": "globals\/colors?id=secondary",
+                                    "eael_fg_control_active_text_color": "globals\/colors?id=accent",
+                                    "eael_fg_item_border_color": "globals\/colors?id=text",
+                                    "eael_fg_item_cap_bg_color": "",
+                                    "eael_fg_item_hover_title_hover_color": "globals\/colors?id=primary",
+                                    "eael_fg_control_typography_typography": "globals\/typography?id=abb66e4",
+                                    "eael_fg_item_hover_title_typography_typography": "globals\/typography?id=1ed1f14",
+                                    "eael_fg_item_hover_content_typography_typography": "globals\/typography?id=text",
+                                    "eael_fg_control_normal_text_color": "globals\/colors?id=primary",
+                                    "eael_fg_item_icon_bg_color": "globals\/colors?id=secondary",
+                                    "eael_fg_item_icon_color": "globals\/colors?id=primary",
+                                    "eael_fg_item_hover_title_color": "globals\/colors?id=primary",
+                                    "eael_fg_item_hover_content_color": "globals\/colors?id=primary"
+                                },
+                                "eael_fg_control_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "40",
+                                    "bottom": "10",
+                                    "left": "40",
+                                    "isLinked": ""
+                                },
+                                "eael_fg_control_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "80",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "eael_fg_control_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "20",
+                                    "bottom": "10",
+                                    "left": "20",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "eael-filterable-gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents",
+        "background_background": "classic",
+        "__globals__": {
+            "background_color": "globals\/colors?id=accent"
+        },
+        "template": "elementor_canvas"
+    }
+}
