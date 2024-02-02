@@ -1,0 +1,7 @@
+/*!
+ * Additional js for frontend VC
+ *
+ * Name    : Visual Portfolio
+ * Version : @@plugin_version
+ * Author  : nK https://nkdev.info
+ */

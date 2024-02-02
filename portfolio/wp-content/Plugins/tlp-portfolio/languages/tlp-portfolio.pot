@@ -1,0 +1,1059 @@
+# Copyright (C) 2023 tlp-portfolio
+# This file is distributed under the same license as the tlp-portfolio package.
+msgid ""
+msgstr ""
+"Project-Id-Version: tlp-portfolio\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-16 10:29+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../lib/classes/PortfolioInitRegister.php:46, ../lib/classes/PortfolioInitRegister.php:47
+msgid "Portfolio"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:48, ../lib/classes/PortfolioInitRegister.php:50
+msgid "Add Portfolio"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:49
+msgid "All Portfolios"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:51
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:52
+msgid "New Portfolio"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:53
+msgid "View Portfolio"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:54
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:55
+msgid "No Portfolios found"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:56
+msgid "No Portfolios in the trash"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:95, ../lib/classes/PortfolioInitRegister.php:97, ../lib/classes/TLPPortfolioOptions.php:232
+msgid "Tags"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:96
+msgid "Tag"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:98
+msgid "Edit Tag"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:99
+msgid "Update Tag"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:100
+msgid "Add New Tag"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:101
+msgid "New Tag Name"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:102, ../lib/classes/PortfolioInitRegister.php:103
+msgid "Parent Tag"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:104
+msgid "All Tags"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:105
+msgid "Search Tags"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:106
+msgid "Popular Tags"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:107
+msgid "Separate Tags with commas"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:108
+msgid "Add or remove Tags"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:109
+msgid "Choose from the most used Tags"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:110
+msgid "No Tags found."
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:134, ../lib/classes/PortfolioInitRegister.php:136, ../lib/classes/TLPPortfolioOptions.php:221, ../lib/vendor/TlpPortfolioElementorWidget.php:784
+msgid "Categories"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:135, ../lib/vendor/TlpPortfolioElementorWidget.php:176
+msgid "Category"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:137
+msgid "Edit Category"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:138
+msgid "Update Category"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:139
+msgid "Add New Category"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:140
+msgid "New Category Name"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:141
+msgid "Parent Category"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:142
+msgid "Parent Category:"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:143
+msgid "All Categories"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:144
+msgid "Search Categories"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:145
+msgid "Popular Categories"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:146
+msgid "Separate categories with commas"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:147
+msgid "Add or remove categories"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:148
+msgid "Choose from the most used  categories"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:149
+msgid "No categories found."
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:170, ../lib/classes/PortfolioInitRegister.php:174, ../lib/classes/PortfolioInitRegister.php:175
+msgid "ShortCode"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:171
+msgid "TLP Portfolio ShortCode generator"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:173
+msgid "ShortCodes"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:176
+msgid "Edit ShortCode"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:177
+msgid "New ShortCode"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:178
+msgid "View ShortCode"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:179
+msgid "ShortCode Locations"
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:180
+msgid "No ShortCode found."
+msgstr ""
+
+#: ../lib/classes/PortfolioInitRegister.php:181
+msgid "No ShortCode found in trash."
+msgstr ""
+
+#: ../lib/classes/PortfolioPostMeta.php:44
+msgid "Portfolio Details"
+msgstr ""
+
+#: ../lib/classes/PortfolioPostMeta.php:69
+msgid "Short Description"
+msgstr ""
+
+#: ../lib/classes/PortfolioPostMeta.php:74
+msgid "Add some short description for hint view"
+msgstr ""
+
+#: ../lib/classes/PortfolioPostMeta.php:79, ../lib/vendor/TlpPortfolioElementorWidget.php:750, ../lib/templates/elementor/carousel3.php:55, ../lib/templates/elementor/isotope1.php:53, ../lib/templates/elementor/isotope3.php:56, ../lib/templates/elementor/layout1.php:40, ../lib/templates/elementor/layout2.php:55, ../lib/templates/elementor/layout3.php:55
+msgid "Client Name"
+msgstr ""
+
+#: ../lib/classes/PortfolioPostMeta.php:88, ../lib/classes/TLPPortfolioHelper.php:372, ../lib/vendor/TlpPortfolioElementorWidget.php:773, ../lib/templates/elementor/carousel3.php:63, ../lib/templates/elementor/isotope1.php:61, ../lib/templates/elementor/isotope3.php:64, ../lib/templates/elementor/layout1.php:48, ../lib/templates/elementor/layout2.php:63, ../lib/templates/elementor/layout3.php:63
+msgid "Completed Date"
+msgstr ""
+
+#: ../lib/classes/PortfolioPostMeta.php:98, ../lib/vendor/TlpPortfolioElementorWidget.php:761
+msgid "Project Url"
+msgstr ""
+
+#: ../lib/classes/PortfolioPostMeta.php:108
+msgid "External URL (Custom detail link)"
+msgstr ""
+
+#: ../lib/classes/PortfolioPostMeta.php:108
+msgid "Pro feature"
+msgstr ""
+
+#: ../lib/classes/PortfolioPostMeta.php:118
+msgid "Tools Used"
+msgstr ""
+
+#: ../lib/classes/PortfolioPostMeta.php:122
+msgid "Add the tools which are used in this project"
+msgstr ""
+
+#: ../lib/classes/PortfolioPostTypeAdmin.php:33
+msgid "TLP Portfolio ShortCode"
+msgstr ""
+
+#: ../lib/classes/PortfolioPostTypeAdmin.php:129, ../lib/vendor/TlpPortfolioElementorWidget.php:213
+msgid "Image"
+msgstr ""
+
+#: ../lib/classes/RtPortfolioAdmin.php:57, ../support-class/RtPortfolioAdmin.php:42
+msgid "Don't miss out on our biggest sale of the year! Get your."
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:152
+msgid "Select One"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:161
+msgid "Custom image size"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:356, ../lib/templates/elementor/carousel3.php:59, ../lib/templates/elementor/isotope1.php:57, ../lib/templates/elementor/isotope3.php:60, ../lib/templates/elementor/layout1.php:44, ../lib/templates/elementor/layout2.php:59, ../lib/templates/elementor/layout3.php:59
+msgid "Project URL"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:360
+msgid "Categories: "
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:364, ../lib/vendor/TlpPortfolioElementorWidget.php:795, ../lib/templates/elementor/carousel3.php:71, ../lib/templates/elementor/isotope1.php:69, ../lib/templates/elementor/isotope3.php:72, ../lib/templates/elementor/layout1.php:56, ../lib/templates/elementor/layout2.php:71, ../lib/templates/elementor/layout3.php:71
+msgid "Tools"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:368
+msgid "Client"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:376
+msgid "Tags :"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:498
+msgid "Page %1$d of %2$d"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:506
+msgid "First"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:514
+msgid "Previous"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:530
+msgid "Next"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioHelper.php:538
+msgid "Last"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:24
+msgid "Layout type"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:28
+msgid "Grid Layout"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:33
+msgid "Isotop Layout"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:38
+msgid "Slider Layout"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:45, ../lib/classes/TLPPortfolioSCMeta.php:147, ../lib/vendor/TlpPortfolioElementorWidget.php:54
+msgid "Layout"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:52
+msgid "Isotope filter (Selected item) <span style='color:red;'>Pro feature</span>"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:59
+msgid "Isotope filter (Show All item) <span style='color:red;'>Pro feature</span>"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:62, ../lib/classes/TLPPortfolioOptions.php:152
+msgid "Disable"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:76
+msgid "Speed"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:80
+msgid "Auto play Speed in milliseconds"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:83
+msgid "Carousel Options"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:92
+msgid "Autoplay timeout"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:96
+msgid "Autoplay interval timeout"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:100
+msgid "Desktop column"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:107
+msgid "Tab column"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:114
+msgid "Mobile column"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:121, ../lib/classes/TLPPortfolioOptions.php:473, ../lib/classes/TLPPortfolioOptions.php:515, ../lib/vendor/TlpPortfolioElementorWidget.php:112
+msgid "Pagination"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:123, ../lib/classes/TLPPortfolioOptions.php:165, ../lib/views/settings.php:75
+msgid "Enable"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:128
+msgid "Display per page"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:131
+msgid "If value of Limit setting is not blank (empty), this value should be smaller than Limit value."
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:138
+msgid "Image Size"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:144
+msgid "Custom Image Size"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:146
+msgid "We prefer to upload image larger than your custom image size. <span style=\"margin-top: 5px; display: block; color: #9A2A2A; font-weight: 400;\">Please note that, if you enter image size larger than the actual image iteself, the image sizes will fallback to the full size image.</span>"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:150
+msgid "Disable image"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:156, ../lib/vendor/TlpPortfolioElementorWidget.php:194
+msgid "Short description limit"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:157
+msgid "Short description limit only integer number is allowed, Leave it blank for full text."
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:164
+msgid "Detail page link"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:171, ../lib/vendor/TlpPortfolioElementorWidget.php:146
+msgid "Detail page link type"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:182
+msgid "Link Target"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:197
+msgid "Include only"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:199, ../lib/classes/TLPPortfolioOptions.php:207
+msgid "List of post IDs to show (comma-separated values, for example: 1,2,3)"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:205
+msgid "Exclude"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:213
+msgid "Limit"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:215
+msgid "The number of posts to show. Set empty to show all found posts."
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:225, ../lib/classes/TLPPortfolioOptions.php:236
+msgid "Select the category you want to filter, Leave it blank for All category"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:243
+msgid "Taxonomy relation"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:246
+msgid "Select this option if you select more than one taxonomy like category and tag, or category , tag and tools"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:253, ../lib/vendor/TlpPortfolioElementorWidget.php:95
+msgid "Order By"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:260, ../lib/vendor/TlpPortfolioElementorWidget.php:104
+msgid "Order"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:294
+msgid "Field selection"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:299
+msgid "Check the field which you want to display"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:308
+msgid "Parent class"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:310
+msgid "Parent class for adding custom css"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:314, ../lib/vendor/TlpPortfolioElementorWidget.php:370, ../lib/vendor/TlpPortfolioElementorWidget.php:656, ../lib/vendor/TlpPortfolioElementorWidget.php:677, ../lib/views/settings.php:25
+msgid "Primary Color"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:319
+msgid "Overlay color"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:324
+msgid "Button background color"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:328
+msgid "Button hover background color"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:332
+msgid "Button active background color"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:336
+msgid "Button text color"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:340
+msgid "Padding"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:341
+msgid "Unit will be pixel, No need to give any unit. Only integer value will be valid.<br> Leave it blank for default"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:345
+msgid "Name / Title"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:349
+msgid "Name Hover"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:353, ../lib/vendor/TlpPortfolioElementorWidget.php:737
+msgid "Short description"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:357
+msgid "Icon style"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:361
+msgid "Meta style"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:368
+msgid "Soft Crop"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:369
+msgid "Hard Crop"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:469, ../lib/vendor/TlpPortfolioElementorWidget.php:294
+msgid "Loop"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:470, ../lib/classes/TLPPortfolioOptions.php:513
+msgid "Auto Play"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:471
+msgid "Pause on mouse hover"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:472
+msgid "Nav Button"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:474, ../lib/classes/TLPPortfolioOptions.php:518, ../lib/vendor/TlpPortfolioElementorWidget.php:339
+msgid "Auto Height"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:475, ../lib/classes/TLPPortfolioOptions.php:519
+msgid "Lazy Load"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:476
+msgid "Right to left (RTL)"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:514
+msgid "Navigation"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:516
+msgid "Stop Hover"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioOptions.php:517
+msgid "Responsive"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioSCMeta.php:75
+msgid "Short Code Generator"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioSCMeta.php:84
+msgid "Layout Preview"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioSCMeta.php:92
+msgid "Pro Documentation"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioSCMeta.php:153
+msgid "Filtering"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioSCMeta.php:158, ../lib/vendor/TlpPortfolioElementorWidget.php:706
+msgid "Field Selection"
+msgstr ""
+
+#: ../lib/classes/TLPPortfolioSCMeta.php:164
+msgid "Styling"
+msgstr ""
+
+#: ../lib/classes/TLPportSettings.php:75
+msgid "Security Error!!!"
+msgstr ""
+
+#: ../lib/classes/TLPportSettings.php:70
+msgid "Settings successfully updated"
+msgstr ""
+
+#: ../lib/classes/TLPportSettings.php:90, ../lib/views/settings.php:18
+msgid "TLP Portfolio Settings"
+msgstr ""
+
+#: ../lib/classes/TLPportSettings.php:91, ../lib/vendor/TlpPortfolioElementorWidget.php:44
+msgid "Settings"
+msgstr ""
+
+#: ../lib/classes/TLPportSettings.php:99, ../lib/classes/TLPportSettings.php:100
+msgid "Get Help"
+msgstr ""
+
+#: ../lib/classes/TLPportShortCode.php:459
+msgid "No shortCode found"
+msgstr ""
+
+#: ../lib/classes/TLPportShortCode.php:457
+msgid "Session Error !!"
+msgstr ""
+
+#: ../lib/classes/TLPportShortCode.php:453
+msgid "No portfolio found"
+msgstr ""
+
+#: ../lib/classes/TLPportShortCode.php:310
+msgid "Loading ..."
+msgstr ""
+
+#: ../lib/classes/TLPportShortCode.php:415, ../lib/classes/TLPportShortCode.php:896
+msgid "Show all"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:586
+msgid "Left"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:587
+msgid "Right"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:588
+msgid "Center"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:589
+msgid "Justify"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:595, ../lib/vendor/TlpPortfolioElementorWidget.php:649
+msgid "Normal"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:596
+msgid "Bold"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:597
+msgid "Bolder"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:598
+msgid "Lighter"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:599
+msgid "Inherit"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:600
+msgid "Initial"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:601
+msgid "Unset"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:602
+msgid "100"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:603
+msgid "200"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:604
+msgid "300"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:605
+msgid "400"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:606
+msgid "500"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:607
+msgid "600"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:608
+msgid "700"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:609
+msgid "800"
+msgstr ""
+
+#: ../lib/models/TlpPortfolioField.php:610
+msgid "900"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:22
+msgid "Tlp Portfolio"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:64
+msgid "Desktop Column"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:74
+msgid "Tablet Column"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:84
+msgid "Mobile Column"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:113, ../lib/vendor/TlpPortfolioElementorWidget.php:136, ../lib/vendor/TlpPortfolioElementorWidget.php:255, ../lib/vendor/TlpPortfolioElementorWidget.php:295, ../lib/vendor/TlpPortfolioElementorWidget.php:306, ../lib/vendor/TlpPortfolioElementorWidget.php:317, ../lib/vendor/TlpPortfolioElementorWidget.php:329, ../lib/vendor/TlpPortfolioElementorWidget.php:340, ../lib/vendor/TlpPortfolioElementorWidget.php:351, ../lib/vendor/TlpPortfolioElementorWidget.php:714, ../lib/vendor/TlpPortfolioElementorWidget.php:726, ../lib/vendor/TlpPortfolioElementorWidget.php:738, ../lib/vendor/TlpPortfolioElementorWidget.php:751, ../lib/vendor/TlpPortfolioElementorWidget.php:762, ../lib/vendor/TlpPortfolioElementorWidget.php:774, ../lib/vendor/TlpPortfolioElementorWidget.php:785, ../lib/vendor/TlpPortfolioElementorWidget.php:796
+msgid "On"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:114, ../lib/vendor/TlpPortfolioElementorWidget.php:137, ../lib/vendor/TlpPortfolioElementorWidget.php:256, ../lib/vendor/TlpPortfolioElementorWidget.php:296, ../lib/vendor/TlpPortfolioElementorWidget.php:307, ../lib/vendor/TlpPortfolioElementorWidget.php:318, ../lib/vendor/TlpPortfolioElementorWidget.php:330, ../lib/vendor/TlpPortfolioElementorWidget.php:341, ../lib/vendor/TlpPortfolioElementorWidget.php:352, ../lib/vendor/TlpPortfolioElementorWidget.php:715, ../lib/vendor/TlpPortfolioElementorWidget.php:727, ../lib/vendor/TlpPortfolioElementorWidget.php:739, ../lib/vendor/TlpPortfolioElementorWidget.php:752, ../lib/vendor/TlpPortfolioElementorWidget.php:763, ../lib/vendor/TlpPortfolioElementorWidget.php:775, ../lib/vendor/TlpPortfolioElementorWidget.php:786, ../lib/vendor/TlpPortfolioElementorWidget.php:797
+msgid "Off"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:116, ../lib/vendor/TlpPortfolioElementorWidget.php:166, ../lib/vendor/TlpPortfolioElementorWidget.php:298, ../lib/vendor/TlpPortfolioElementorWidget.php:309, ../lib/vendor/TlpPortfolioElementorWidget.php:320, ../lib/vendor/TlpPortfolioElementorWidget.php:332, ../lib/vendor/TlpPortfolioElementorWidget.php:343, ../lib/vendor/TlpPortfolioElementorWidget.php:354
+msgid "Loop to first item. Default: On"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:125
+msgid "Display Per Page Number"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:135
+msgid "Details page link"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:139, ../lib/vendor/TlpPortfolioElementorWidget.php:765
+msgid "Display Project Url."
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:150
+msgid "Inner link"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:151
+msgid "External link"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:162
+msgid "Link Open in new window"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:163
+msgid "Yes"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:164
+msgid "No"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:184
+msgid "Hide Image"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:186, ../lib/vendor/TlpPortfolioElementorWidget.php:245
+msgid "Hide"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:187, ../lib/vendor/TlpPortfolioElementorWidget.php:244
+msgid "Show"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:195
+msgid "Leave it blank to default 100 letter"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:204
+msgid "Wrapper Class"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:232
+msgid "Carousel Settings"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:242
+msgid "Autoplay"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:253
+msgid "Stop on Hover"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:267
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:269
+msgid "5 Seconds"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:270
+msgid "4 Seconds"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:271
+msgid "3 Seconds"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:272
+msgid "2 Seconds"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:273
+msgid "1 Second"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:276
+msgid "Set any value for example 5 seconds to play it in every 5 seconds. Default: 5 Seconds"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:284
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:286
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:305
+msgid "Nav"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:316
+msgid "Dots"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:328
+msgid "Lazyload"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:350
+msgid "RTL"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:362
+msgid "Advanced Style"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:381
+msgid "Overlay Color"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:392
+msgid "Button Background Color"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:402
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:412
+msgid "Button Active Color"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:423
+msgid "Button Text Color"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:434
+msgid "Content Padding"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:446
+msgid "Gutter / Padding"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:461
+msgid "Title Style"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:468, ../lib/vendor/TlpPortfolioElementorWidget.php:532, ../lib/vendor/TlpPortfolioElementorWidget.php:594
+msgid "Color"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:479, ../lib/vendor/TlpPortfolioElementorWidget.php:542, ../lib/vendor/TlpPortfolioElementorWidget.php:604
+msgid "Font size"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:490, ../lib/vendor/TlpPortfolioElementorWidget.php:553
+msgid "Font weight"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:501, ../lib/vendor/TlpPortfolioElementorWidget.php:564, ../lib/vendor/TlpPortfolioElementorWidget.php:616
+msgid "Alignment"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:525
+msgid "Short Description Style"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:587
+msgid "Meta Style"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:639
+msgid "Icon Style"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:670
+msgid "Hover"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:693
+msgid "Border Radius"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:713
+msgid "Zoom Image"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:717, ../lib/vendor/TlpPortfolioElementorWidget.php:729
+msgid "Display Name. Default: Yes"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:725
+msgid "Name"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:741
+msgid "Display Short Description. Default: Yes"
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:754
+msgid "Display Client Name."
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:777
+msgid "Display Completed Date."
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:788
+msgid "Display Categories."
+msgstr ""
+
+#: ../lib/vendor/TlpPortfolioElementorWidget.php:799
+msgid "Display tools."
+msgstr ""
+
+#: ../lib/views/settings.php:22
+msgid "General settings"
+msgstr ""
+
+#: ../lib/views/settings.php:33
+msgid "Slug"
+msgstr ""
+
+#: ../lib/views/settings.php:36
+msgid "Slug configuration"
+msgstr ""
+
+#: ../lib/views/settings.php:41
+msgid "Link To Detail Page"
+msgstr ""
+
+#: ../lib/views/settings.php:69
+msgid "Social Share To Detail Page"
+msgstr ""
+
+#: ../lib/views/settings.php:80
+msgid "Custom Css"
+msgstr ""
+
+#: ../lib/views/settings.php:88
+msgid "Save Changes"
+msgstr ""
+
+#: ../lib/widgets/TLPportOwlCarosule.php:26
+msgid "Display the portfolio as carousel."
+msgstr ""
+
+#: ../lib/widgets/TLPportOwlCarosule.php:28
+msgid "TPL Portfolio"
+msgstr ""
+
+#: ../lib/widgets/TLPportOwlCarosule.php:129
+msgid "No post found"
+msgstr ""
+
+#: ../lib/widgets/TLPportOwlCarosule.php:232
+msgid "Title:"
+msgstr ""
+
+#: ../lib/widgets/TLPportOwlCarosule.php:238
+msgid "Number of item per slide:"
+msgstr ""
+
+#: ../lib/widgets/TLPportOwlCarosule.php:244
+msgid "Number of item for tablet:"
+msgstr ""
+
+#: ../lib/widgets/TLPportOwlCarosule.php:250
+msgid "Number of item for mobile:"
+msgstr ""
+
+#: ../lib/widgets/TLPportOwlCarosule.php:256
+msgid "Letter limit for short description:"
+msgstr ""
+
+#: ../lib/widgets/TLPportOwlCarosule.php:262
+msgid "Total Number of item:"
+msgstr ""
+
+#: ../lib/widgets/TLPportOwlCarosule.php:269
+msgid "Slide Speed:"
+msgstr ""
+
+#: ../lib/templates/elementor/carousel1.php:51, ../lib/templates/elementor/carousel2.php:63, ../lib/templates/elementor/isotope2.php:63, ../lib/templates/layouts/carousel2.php:24, ../lib/templates/layouts/carousel3.php:34, ../lib/templates/layouts/isotope1.php:34, ../lib/templates/layouts/isotope2.php:24, ../lib/templates/layouts/isotope3.php:34, ../lib/templates/layouts/layout1.php:25, ../lib/templates/layouts/layout2.php:24, ../lib/templates/layouts/layout3.php:34
+msgid "Client Name :"
+msgstr ""
+
+#: ../lib/templates/elementor/carousel1.php:55, ../lib/templates/elementor/carousel2.php:67, ../lib/templates/elementor/isotope2.php:67, ../lib/templates/layouts/carousel1.php:39, ../lib/templates/layouts/carousel2.php:28, ../lib/templates/layouts/carousel3.php:38, ../lib/templates/layouts/isotope1.php:38, ../lib/templates/layouts/isotope2.php:28, ../lib/templates/layouts/isotope3.php:38, ../lib/templates/layouts/layout1.php:29, ../lib/templates/layouts/layout2.php:28, ../lib/templates/layouts/layout3.php:38
+msgid "Completed Date :"
+msgstr ""
+
+#: ../lib/templates/elementor/carousel1.php:59, ../lib/templates/elementor/carousel2.php:71, ../lib/templates/elementor/isotope2.php:71, ../lib/templates/layouts/carousel1.php:43, ../lib/templates/layouts/carousel2.php:32, ../lib/templates/layouts/carousel3.php:42, ../lib/templates/layouts/isotope1.php:42, ../lib/templates/layouts/isotope2.php:32, ../lib/templates/layouts/isotope3.php:42, ../lib/templates/layouts/layout1.php:33, ../lib/templates/layouts/layout2.php:32, ../lib/templates/layouts/layout3.php:42
+msgid "Project URL :"
+msgstr ""
+
+#: ../lib/templates/elementor/carousel1.php:63, ../lib/templates/elementor/carousel2.php:75, ../lib/templates/elementor/carousel3.php:67, ../lib/templates/elementor/isotope1.php:65, ../lib/templates/elementor/isotope2.php:75, ../lib/templates/elementor/isotope3.php:68, ../lib/templates/elementor/layout1.php:52, ../lib/templates/elementor/layout2.php:67, ../lib/templates/elementor/layout3.php:67, ../lib/templates/layouts/carousel1.php:47, ../lib/templates/layouts/carousel2.php:36, ../lib/templates/layouts/carousel3.php:46, ../lib/templates/layouts/isotope1.php:46, ../lib/templates/layouts/isotope2.php:36, ../lib/templates/layouts/isotope3.php:46, ../lib/templates/layouts/layout1.php:37, ../lib/templates/layouts/layout2.php:36, ../lib/templates/layouts/layout3.php:46
+msgid "Categories :"
+msgstr ""
+
+#: ../lib/templates/elementor/carousel1.php:67, ../lib/templates/elementor/carousel2.php:79, ../lib/templates/elementor/isotope2.php:79, ../lib/templates/layouts/carousel1.php:51, ../lib/templates/layouts/carousel2.php:40, ../lib/templates/layouts/carousel3.php:50, ../lib/templates/layouts/isotope1.php:50, ../lib/templates/layouts/isotope2.php:40, ../lib/templates/layouts/isotope3.php:50, ../lib/templates/layouts/layout1.php:41, ../lib/templates/layouts/layout2.php:40, ../lib/templates/layouts/layout3.php:50
+msgid "Tools :"
+msgstr ""
+
+#: ../lib/templates/layouts/carousel1.php:35
+msgid "Client Name:"
+msgstr ""
